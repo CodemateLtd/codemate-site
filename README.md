@@ -17,7 +17,7 @@ For example, if we'd create a new post:
 
 Now we have the post and an asset folder set up for a new post. 
 
-# Post images and other assets
+## Post images and other assets
 
 Add images to the *static/hello-world* folder.
 
