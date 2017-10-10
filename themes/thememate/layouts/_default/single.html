@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+
+<div class="content">
+    {{ partial "article-header" . }}
+    
+    <div class="post">
+        {{ .Content}}
+        {{ partial "article-share" . }}
+    </div>
+</div>
+
+{{ partial "article-list" . }}
+{{ partial "footer" . }}

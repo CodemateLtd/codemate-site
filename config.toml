@@ -1,0 +1,5 @@
+baseURL = "https://fortune-teller-dares-51855.netlify.com/"
+theme = "thememate"
+title = "Codemate"
+pygmentsCodeFences = true
+pygmentsUseClasses = true

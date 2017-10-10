@@ -1,0 +1,19 @@
+<div class="posts-listing-container">
+    <h2>Stories and insights</h2>
+
+    <div class="posts-listing">
+    {{ range where .Site.Pages "Type" "post" }}
+    {{ if and (.Params.Title) (.Params.Date) }}
+        <figure>
+            <a href="{{ .Permalink }}">
+                <div class="image" style="background-image: url({{ .File.BaseFileName | absURL }}/thumbnail.png"></div>
+                <figcaption>
+                    <h3>{{ .Params.Title }}</h3>
+                    <p>{{ .Date.Format "January 02, 2006" }}</p>
+                </figcaption>
+            </a>
+        </figure>
+    {{ end }}
+    {{ end }}
+    </div>
+</div>

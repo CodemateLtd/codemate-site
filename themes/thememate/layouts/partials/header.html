@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{ if .IsNode}}{{ .Title }} &middot; {{end}}{{ .Site.Title }}</title>
+        <meta name="author">
+        <meta name="description" content="Codemate is an international software development company base in Finland.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {{ .Hugo.Generator }}
+        <link href="{{ "post/index.xml" | absURL }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+        <link href="{{ "post/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+        
+        <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
+        <link rel="icon" href="{{ "favicon.png" | absURL }}">
+        
+        <style>
+        @font-face {
+            font-family: 'fontello';
+            src: url({{ "/font/fontello.eot?89601951" | absURL }});
+            src: url({{ "/font/fontello.eot?89601951#iefix" | absURL }}) format('embedded-opentype'),
+                url({{ "/font/fontello.woff?89601951" | absURL }}) format('woff'),
+                url({{ "/font/fontello.ttf?89601951" | absURL }}) format('truetype'),
+                url({{ "/font/fontello.svg?89601951#fontello" | absURL }}) format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+        </style>
+    </head>
+    <body>

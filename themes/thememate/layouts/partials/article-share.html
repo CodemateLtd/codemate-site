@@ -1,0 +1,18 @@
+<div class="share-container">
+    <h3>Enlighten your network by sharing!</h3>
+
+    <ul class="share-buttons">
+        <li>
+            <a class="icon facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">&#xf09a; <span class="hidden">Share on Facebook</span></a>
+        </li>
+        <li>
+            <a class="icon twitter" href="https://twitter.com/share?text={{ .Title }}&amp;url={{ .Permalink }}">&#xf099; <span class="hidden">Share on Twitter</span></a>
+        </li>
+        <li>
+            <a class="icon linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}">&#xf0e1; <span class="hidden">Share on LinkedIn</span></a>
+        </li>
+        <li>
+            <a class="icon email" href="mailto?subject={{ .Title }}&url={{ .Permalink }}">&#xe800; <span class="hidden">Share via email</span></a>
+        </li>
+    </ul>
+</div>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Codemate</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Codemate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Sep 2017 11:07:50 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Considering Flutter</title>
+      <link>http://localhost:1313/post/considering-flutter/</link>
+      <pubDate>Fri, 15 Sep 2017 11:07:50 +0300</pubDate>
+      
+      <guid>http://localhost:1313/post/considering-flutter/</guid>
+      <description>Most people, including me 4 months ago, don’t know what the heck Flutter is.
+Yet another one of these frameworks I accidentally stumbled upon Flutter when reading about Google’s Fuchsia. Hearing about Flutter being the native SDK for Fuchsia, I had to take a look.
+I landed on the Flutter home page and spotted the sales pitch:
+ “Flutter is a new mobile app SDK to help developers and designers build modern mobile apps for iOS and Android.</description>
+    </item>
+    
+    <item>
+      <title>First thoughts on Android O</title>
+      <link>http://localhost:1313/post/android-o/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/android-o/</guid>
+      <description>Android O Developer Preview Android O Developer Preview is out! It’s time to start guessing what delicious dessert the letter O will stand for.
+Every Android developer should check the list of behavior changes in the upcoming OS version right now. It’s nicely sectioned, so you see the behavior changes for only apps that target Android O, and changes that affect every API level on devices running Android O.</description>
+    </item>
+    
+    <item>
+      <title>Quality in Terms of Business Value</title>
+      <link>http://localhost:1313/post/quality-in-terms-of-business-value/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/quality-in-terms-of-business-value/</guid>
+      <description>Quality is a tough subject to write about. It means different things to different people and even different things to the same person at different times or contexts.
+This article aims to plant some idea seeds that will hopefully grow into valuable discussions on quality and clarify the importance of delivering real business value to our clients.
+The author: Andrew Kelly, Software Quality Coach at Codemate Ltd. Photo credit: Optician Training, Elisabeth Hahn Some Rights Reserved</description>
+    </item>
+    
+    <item>
+      <title>The state of hybrid apps</title>
+      <link>http://localhost:1313/post/the-state-of-hybrid-apps/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/the-state-of-hybrid-apps/</guid>
+      <description>Web technologies have matured well. The combination of HTML for structural layout, CSS for visual styling and JS for functionality serves well for creating a simple app. The combination has proven to serve even for complex enterprise-scale programs. All browsers interpret the stuff almost identically and have gotten rid of most inconsistencies. In 2005 the situation was horrible and nobody would have betted on either compiling to JavaScript or using HTML for layouts when coding in C++.</description>
+    </item>
+    
+    <item>
+      <title>Moving from Android to iOS development</title>
+      <link>http://localhost:1313/post/from-android-to-ios-dev/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/from-android-to-ios-dev/</guid>
+      <description>Shift to iOS For several years now I’ve been working on application development for Android platform. I know the platform pretty well, since the projects I have participated in have required quite a wide variety of Android features. It’s fun to do things with the technologies you know well. But it’s good to get outside your comfort zone and learn something new.
+A few months ago there was a need for iOS development at Codemate.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi in IoT Prototyping</title>
+      <link>http://localhost:1313/post/raspberry-pi-iot-proto/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/raspberry-pi-iot-proto/</guid>
+      <description>Introduction to RPI Raspberry Pi (RPI) is a well known device for most people in the IT industry. In most applications, RPI might be a little bit an overkill as it is more of a full-fledged computer than an embedded device. Still it is a good choice for an IoT prototype development as it offers a lot of different choices for input and output devices, for example GPIO pins and USB, as well as different ways to program it.</description>
+    </item>
+    
+    <item>
+      <title>Wunderbar IoT platform evaluated</title>
+      <link>http://localhost:1313/post/wunderbar-iot-prototyping-platform/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/wunderbar-iot-prototyping-platform/</guid>
+      <description>Wunderbar review Wunderbar is a rapid IoT prototyping hardware platform that is built for software developers. The product is developed by Relayr.
+ Sounds like an ideal tool for us. I tested the platform and wrote my first experiences here.
+ Author: Juhana Paavola, Software Architect at Codemate Ltd.
+Getting started Onboarding video by Relayr:
+ Getting started in building a prototype application using Wunderbar hardware is made really easy.</description>
+    </item>
+    
+    <item>
+      <title>Partner in South-East Asia</title>
+      <link>http://localhost:1313/post/partner-south-east-asia/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/partner-south-east-asia/</guid>
+      <description>Eastern connection Codemate is actively promoting cooperation with Finnish companies operating or entering South-East Asian markets.
+We have been present in S-E Asia for years and have grown our local team in Bangkok, which consists mainly of Finnish software experts. There’s a lot of business to be done in Bangkok, but take note that it’s only a short flight from Singapore and Hong Kong as well.
+We can help in delivery projects for local clients as well as developing specific software solutions for production sites in the area.</description>
+    </item>
+    
+    <item>
+      <title>Quick ideas vs. good ideas</title>
+      <link>http://localhost:1313/post/quick-ideas-vs-good-ideas/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/quick-ideas-vs-good-ideas/</guid>
+      <description>Think thrice  I think i’ve found a way to separate excellent programmers from mediocre ones.
+ Author: Jaakko Pääkkönen, Senior Software Engineer at Codemate Ltd.
+The method is quite simple and works well in recruiting situation:
+Give candidates a programming task with the language they are already familiar with, but from a domain that is new to them. After receiving the task, the coders start to think about the problem and each one comes up with a solution sooner or later.</description>
+    </item>
+    
+    <item>
+      <title>World cup of kyykkä 2016</title>
+      <link>http://localhost:1313/post/wcok2016/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/wcok2016/</guid>
+      <description>What the heck is kyykkä? Kyykkä, a noble sport of accuracy, power and scheming is often seen to be played by students and alumni of Finnish technical Universities. The correct English translation of Kyykkä is Finnish Skittles.
+In short, the goal is to remove the Skittles (Karttu in Finnish) from the opponents square, by throwing a wooden bat.
+The legacy of Kyykkä dates back to ancient Karelians, who used to practice this recreational sport already hundreds of years ago.</description>
+    </item>
+    
+    <item>
+      <title>Deploy with confidence</title>
+      <link>http://localhost:1313/post/deploy-with-confidence/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/deploy-with-confidence/</guid>
+      <description>Automation tools to the rescue! Software releases and software configuration management have become increasingly important in software development. Our technology stacks are growing bigger and more complex, architecture is shifting from monolithic server setups to micro-service architecture with dynamic cloud instances. We at Codeamte face these challenges daily, especially due to being a polyglot software development company.
+Luckily there are quality tools that help us face these challenges head on.</description>
+    </item>
+    
+    <item>
+      <title>Five versions of a company website</title>
+      <link>http://localhost:1313/post/lessons-learned-from-codemate-com/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/lessons-learned-from-codemate-com/</guid>
+      <description>Company website in the making You are currently browsing the fifth version of our website and fourth that I’ve been part of making.
+During the years the site has evolved in structure, content and technology.
+We think that each site has been better than the last. Let’s see when we hit perfection.
+In the meantime I would like to share some lessons I’ve learned along the journey.
+About the author: Janne Salmi, Marketing Manager at Codemate Ltd.</description>
+    </item>
+    
+  </channel>
+</rss>
