@@ -2,7 +2,13 @@
 
 An ongoing project in porting our site from WordPress to Hugo.
 
-## Creating a new post
+# Contributing
+
+If fixing an issue, **assign yourself**. This means you're actively working on it.
+
+If an issue doesn't exist about the problem you're fixing, create it and self-assign it to yourself.
+
+# Creating a new post
 
 For example, if we'd create a new post:
 
@@ -11,7 +17,7 @@ For example, if we'd create a new post:
 
 Now we have the post and an asset folder set up for a new post. 
 
-### Post images and other assets
+# Post images and other assets
 
 Add images to the *static/hello-world* folder.
 
