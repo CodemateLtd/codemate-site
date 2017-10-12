@@ -4,7 +4,13 @@ date: 2017-09-15T11:07:50+03:00
 draft: false
 ---
 
-Most people, including me 4 months ago, don’t know what the heck Flutter is.
+## Giving Flutter a go
+
+> Most people, including me 4 months ago, don’t know what the heck Flutter is.
+
+*Author: Iiro Krankka, iOS and Android Developer at Codemate Ltd.*
+
+---
 
 ## Yet another one of these frameworks
 I accidentally stumbled upon **Flutter** when reading about Google’s Fuchsia. Hearing about Flutter being the *native SDK for Fuchsia*, I had to take a look.
