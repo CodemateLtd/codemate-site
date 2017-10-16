@@ -579,6 +579,53 @@ ul.social-buttons {
 }
 
 @media(min-width: 1000px) {
+    .menu input, .menu span{
+        display: none;
+    }
+
+    .menu {
+        position: absolute;
+    }
+
+    .menu ul {
+        position: relative;
+        top: 0;
+        left: 0;
+        display: inline;
+        margin: 0;
+        padding: 0;
+        transform: none;
+        border: none;
+    }
+
+    .menu ul li {
+        display: inline;
+        margin-right: 30px;
+    }
+
+    .menu ul li:last-child {
+        margin-right: 0;
+    }
+
+    .menu ul li a {
+        display: inline;
+        text-transform: none;
+        font-size: 12px;
+        padding: 0;
+        transition: opacity 0.2s ease-in-out;
+        -webkit-transition: opacity 0.2s ease-in-out;
+        opacity: 1;
+    }
+
+    .menu ul li a:hover {
+        background-color: transparent;
+        opacity: 0.5;
+    }
+
+    .menu ul li a.selected {
+        color: #a9d42a;
+    }
+
     .posts-listing figure {
         width: 25%;
     }
