@@ -243,7 +243,7 @@ blockquote {
 
 .post-image {
     width: 100%;
-    height: 250px;
+    height: 300px;
     background-size: cover;
     background-position: center;
 }
@@ -271,9 +271,8 @@ blockquote {
 }
 
 .post-meta-content {
-    margin: 0 auto;
     text-align: center;
-    width: 70%;
+    padding: 0 30px;
 }
 
 .post-meta-content {
@@ -555,6 +554,12 @@ ul.social-buttons {
 @media(min-width: 850px) {
     .post-image {
         height: 400px;
+    }
+
+    .post-meta-content {
+        padding: 0;
+        width: 70%;
+        margin: 0 auto;
     }
 
     .post-meta-content h1 {
